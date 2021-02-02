@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working to make complex life science accessible (and maybe even fun?!) at [Axion BioSystems](https://axionbiosystems.com)
+- 💬 Ask me about joining my team. I'm currently hiring developers (C# specifically)
+- 📫 How to reach me: dstahl@axion-biosystems.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I actually _like_ writing documentation
+
 <!--
 **dstahl-axion/dstahl-axion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
